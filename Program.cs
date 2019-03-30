@@ -9,6 +9,7 @@ namespace gitTest
             Console.WriteLine("Hola Mundo!");
             Console.WriteLine("Seleccione una opción: ");
             Console.WriteLine("opción 1: Helados ");
+            Console.WriteLine("opción 2: Refrescos ");
         }
     }
 }
