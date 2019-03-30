@@ -11,6 +11,8 @@ namespace gitTest
             Console.WriteLine("opción 1: Helados ");
             Console.WriteLine("opción 2: Refrescos ");
             Console.WriteLine("opción 3: Hamburguesas ");
+            Console.WriteLine("opción 4: Papas fritas ");
+            
         }
     }
 }
